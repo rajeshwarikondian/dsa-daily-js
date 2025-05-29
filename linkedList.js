@@ -135,7 +135,3 @@ ll.print();
 
 
 
-///set 
-// map
-// weakSet
-//weakMap      *study this ****
